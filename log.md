@@ -2,10 +2,12 @@
 
 ### Day 1: June 24, 2020
 
-**Today's Progress**: Signed up for a freeCodeCamp account and went through the Basic HTML and HTML5 tutorial.
+**Today's Progress**: Signed up for a freeCodeCamp account and completed the following challenges:
+1. Basic HTML and HTML5
+2. Basic CSS
 
-**Thoughts:** 
+**Thoughts:** The challenges were easy to follow and very engaging.
 
-**Link to work:** 
+**Link to work:** Nil.
 
 
