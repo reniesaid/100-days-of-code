@@ -12,3 +12,11 @@
 **Link to work:** Nil.
 
 
+### Day 2: June 27, 2020
+
+**Today's Progress**: Completed the following challenges from freeCodeCamp:
+1. Responsive Web Design
+
+**Thoughts:** The challenges were easy to follow and very engaging.
+
+**Link to work:** Nil.
