@@ -16,7 +16,7 @@
 ### Day 2: June 27, 2020
 
 **Today's Progress**: Completed the following challenges from freeCodeCamp:
-1. Responsive Web Design
+1. Responsive Web Design #1
 2. CSS Flexbox
 
 **Thoughts:** The challenges were easy to follow and very engaging.
@@ -29,6 +29,7 @@
 
 **Today's Progress**: Completed the following challenges from freeCodeCamp:
 1. CSS Grid
+2. Responsive Web Design #2
 
 **Thoughts:** The challenges were easy to follow and very engaging.
 
