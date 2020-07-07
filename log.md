@@ -29,7 +29,7 @@
 
 **Today's Progress**: Completed the following challenges from freeCodeCamp:
 1. CSS Grid
-2. Responsive Web Design #2
+2. Responsive Web Design #2 - Build A Tribute Page
 
 **Thoughts:** The challenges were easy to follow and very engaging.
 
