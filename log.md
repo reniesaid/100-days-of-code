@@ -22,3 +22,14 @@
 **Thoughts:** The challenges were easy to follow and very engaging.
 
 **Link to work:** Nil.
+
+
+
+### Day 3: July 7, 2020
+
+**Today's Progress**: Completed the following challenges from freeCodeCamp:
+1. CSS Grid
+
+**Thoughts:** The challenges were easy to follow and very engaging.
+
+**Link to work:** Nil.
